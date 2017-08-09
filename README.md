@@ -28,7 +28,7 @@
    •	An Anaconda Graphical installer can be found via: 
    https://www.continuum.io/downloads#macos  
 
-•	We recommend users to install the latest Anaconda Python distribution
+   •	We recommend users to install the latest Anaconda Python distribution
 
 3. OpenCV
    
