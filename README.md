@@ -2,12 +2,9 @@
 
 Ji Zhou<sup>1,2,3,*</sup>, Christopher Applegate<sup>1</sup>, Daniel Reynolds<sup>1</sup>, and Nick Pullen<sup>2</sup>
 
-<sup>1</sup>Earlham Institute, Norwich Research Park, Norwich UK
-
-<sup>2</sup>John Innes Centre, Norwich Research Park, Norwich UK
-
-<sup>3</sup>University of East Anglia, Norwich Research Park, Norwich UK
-
+<sup>1</sup>Earlham Institute, Norwich Research Park, Norwich UK  
+<sup>2</sup>John Innes Centre, Norwich Research Park, Norwich UK  
+<sup>3</sup>University of East Anglia, Norwich Research Park, Norwich UK  
 <sup>*</sup>Correspondence: ji.zhou@earlham.ac.uk or ji.zhou@jic.ac.uk
 
 
