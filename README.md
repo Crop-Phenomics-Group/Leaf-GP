@@ -1,4 +1,16 @@
 # Leaf-GP
+
+Ji Zhou<sup>1,2,3,*</sup>, Christopher Applegate<sup>1</sup>, Albor Dobon Alonso<sup>2</sup>, Daniel Reynolds<sup>1</sup>, Simon Orford<sup>2</sup>, Simon Griffiths<sup>2</sup>, Steven Penfield<sup>2</sup>, and Nick Pullen<sup>2</sup>
+
+<sup>1</sup>Earlham Institute, Norwich Research Park, Norwich UK
+
+<sup>2</sup>John Innes Centre, Norwich Research Park, Norwich UK
+
+<sup>3</sup>University of East Anglia, Norwich Research Park, Norwich UK
+
+<sup>*</sup>Correspondence: ji.zhou@earlham.ac.uk or ji.zhou@jic.ac.uk
+
+
 ## Install Python, the Anaconda Python distribution and OpenCV Python Binding 
 
 1. Install Python releases:
